@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "Forest">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlayerClass::moveCharacter(char):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "usermap">
+            </PersistentString>
+            <PersistentString
+               value = "search">
+            </PersistentString>
+            <PersistentString
+               value = "gameMap1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "anyFunction():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "battleUI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "printMap(int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameMap1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__read_nocancel:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "coordmove">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "printBattleHud():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "battleUI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIcopy">
+            </PersistentString>
+            <PersistentString
+               value = "usermap">
+            </PersistentString>
+            <PersistentString
+               value = "gameMap1">
+            </PersistentString>
+            <PersistentString
+               value = "battleUI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "changeBattleUI(Pocket_Monsters, Pocket_Monsters, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "battleUI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "changeMap(int, int, int, int, char):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameMap1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Block::changeValues(Block&amp;):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "changeBattleUI(Pocket_Monsters, Pocket_Monsters):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "battleUI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
